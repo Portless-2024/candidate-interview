@@ -1,0 +1,16 @@
+name: candidate-interview
+id: ari:cloud:compass:fac78a3c-cea5-4eac-b30d-671208b2a066:component/9fb59e37-8c68-486e-a65e-eef7534e294f/7f9cd4cd-122b-4eac-8fbe-70bd4ba4eb64
+description: null
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/Portless-2024/candidate-interview
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
